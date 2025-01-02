@@ -1,0 +1,60 @@
+Sorting Visualizer
+
+This project is a Sorting Visualizer application built using C++ and wxWidgets. It allows users to visualize the step-by-step execution of various sorting algorithms in a dynamic and interactive interface. The application is designed to help users understand how sorting algorithms work by visualizing comparisons, swaps, and placements in real-time.
+
+Features
+
+Algorithms Supported:
+
+Bubble Sort
+
+Insertion Sort
+
+Selection Sort
+
+Merge Sort
+
+Quick Sort
+
+
+
+Dynamic Bar Visualization:
+
+
+Each bar represents an element in the array being sorted.
+
+Highlights comparisons and swaps in real-time.
+
+
+Interactive Controls:
+
+
+Add custom bars (values between 1-100).
+
+Adjust sorting speed dynamically using a slider.
+
+Refresh the array with random values.
+
+
+Responsive Design:
+
+
+Automatically adjusts visualization based on window size.
+
+
+How It Works:
+
+
+Bar Representation: Each bar corresponds to a value in the array.
+
+Real-Time Updates: Sorting steps are displayed in real-time, with bars being compared or swapped highlighted in different colors.
+
+Interactive Input: Users can add new bars or refresh the array with random unique values.
+
+Speed Control: Adjust the speed of visualization to observe sorting at your own pace.
+
+Installation and Usage
+
+Prerequisites:
+
+wxWidgets Library: Ensure you have wxWidgets installed on your system.
