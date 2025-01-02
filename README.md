@@ -1,0 +1,1 @@
+This project is a Sorting Visualizer built with C++ and wxWidgets, allowing users to visualize sorting algorithms like Bubble Sort, Insertion Sort, Selection Sort, Merge Sort, and Quick Sort. It features dynamic bar updates, adjustable speed, and interactive controls for adding or refreshing data
